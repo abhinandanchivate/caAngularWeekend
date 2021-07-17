@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T07:23:34.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NoHnvLqJpEps57jBpJuU" version="14.8.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-17T17:16:58.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="FAkNMQCLmvzJhpvtJsuL" version="14.9.0" type="github" pages="5">
   <diagram id="YikZJ67pZQlrhkOtO5Au" name="Page-1">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,60 +149,77 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MOxAUHQQOK2LH41fXYGk" name="register form handling">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aL4Tn9Q3caxzyvspzPfN-0" />
         <mxCell id="aL4Tn9Q3caxzyvspzPfN-1" parent="aL4Tn9Q3caxzyvspzPfN-0" />
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-2" target="aL4Tn9Q3caxzyvspzPfN-3">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-2" target="aL4Tn9Q3caxzyvspzPfN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-2" value="design the Form HTML stuff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-2" value="design the Form HTML stuff" style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="200" y="40" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-3" target="aL4Tn9Q3caxzyvspzPfN-5">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-3" target="aL4Tn9Q3caxzyvspzPfN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-3" value="create a model class to hold the data &amp;amp; for service interaction." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-3" value="create a model class to hold the data &amp;amp; for service interaction." style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="200" y="170" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-5" target="aL4Tn9Q3caxzyvspzPfN-7">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-5" target="aL4Tn9Q3caxzyvspzPfN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-5" target="aL4Tn9Q3caxzyvspzPfN-9">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-5" target="aL4Tn9Q3caxzyvspzPfN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-5" value="the data should be captured from UI and we should get it in .ts class.(controller class)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-5" value="the data should be captured from UI and we should get it in .ts class.(controller class)" style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="200" y="300" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-7" target="aL4Tn9Q3caxzyvspzPfN-11">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-7" target="aL4Tn9Q3caxzyvspzPfN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-7" target="aL4Tn9Q3caxzyvspzPfN-13">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-7" target="aL4Tn9Q3caxzyvspzPfN-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-7" value="2 way binding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-7" value="2 way binding" style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="200" y="450" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-9" value="2 types of bindings are there&amp;nbsp;&lt;br&gt;1. one way binding===&amp;gt; today&amp;nbsp;&lt;br&gt;2. two way binding ==&amp;gt; data we can provide from component.ts and will be shared with component.html &amp;amp; vice a versa.&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-9" value="2 types of bindings are there&amp;nbsp;&lt;br&gt;1. one way binding===&amp;gt; today&amp;nbsp;&lt;br&gt;2. two way binding ==&amp;gt; data we can provide from component.ts and will be shared with component.html &amp;amp; vice a versa.&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="700" y="295" width="290" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-11" value="ngModel==&amp;gt; directive(are special functionalities which are required through out application &amp;amp; required in html page." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-11" value="ngModel==&amp;gt; directive(are special functionalities which are required through out application &amp;amp; required in html page." style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="600" y="450" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-13" target="aL4Tn9Q3caxzyvspzPfN-15">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-13" target="aL4Tn9Q3caxzyvspzPfN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-13" value="form handling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-13" value="form handling" style="rounded=1;whiteSpace=wrap;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="200" y="580" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-15" target="aL4Tn9Q3caxzyvspzPfN-17">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" source="aL4Tn9Q3caxzyvspzPfN-15" target="aL4Tn9Q3caxzyvspzPfN-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-15" value="onSubmit() =&amp;gt;&amp;nbsp; &amp;nbsp;ngSubmit()&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-15" value="onSubmit() =&amp;gt;&amp;nbsp; &amp;nbsp;ngSubmit()&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="700" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aL4Tn9Q3caxzyvspzPfN-17" value="import forms module in respective module." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="aL4Tn9Q3caxzyvspzPfN-1">
+        <mxCell id="aL4Tn9Q3caxzyvspzPfN-17" value="import forms module in respective module." style="whiteSpace=wrap;html=1;rounded=1;" parent="aL4Tn9Q3caxzyvspzPfN-1" vertex="1">
           <mxGeometry x="700" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KDt4PzC1v5VwcJZQVefY" name="Dashboard">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="No7DzXqeOFBhcDZhXNzB-0" />
+        <mxCell id="No7DzXqeOFBhcDZhXNzB-1" parent="No7DzXqeOFBhcDZhXNzB-0" />
+        <mxCell id="No7DzXqeOFBhcDZhXNzB-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="No7DzXqeOFBhcDZhXNzB-1">
+          <mxGeometry x="180" y="50" width="460" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="No7DzXqeOFBhcDZhXNzB-3" value="1. we need to print the userName.&lt;br&gt;2. print user exp details&amp;nbsp;&lt;br&gt;3. print user education details&amp;nbsp;&lt;br&gt;4. if profile is not available then display create profile button.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="No7DzXqeOFBhcDZhXNzB-1">
+          <mxGeometry x="690" y="60" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="No7DzXqeOFBhcDZhXNzB-4" value="1. we have to perform a rest call to get the current user profile details.&amp;nbsp;&lt;br&gt;situation 2 :&amp;nbsp;&lt;br&gt;1. profile exists&amp;nbsp;&lt;br&gt;2. profile not found&lt;br&gt;if profile not found : display create profile button." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="No7DzXqeOFBhcDZhXNzB-1">
+          <mxGeometry x="690" y="235" width="310" height="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
