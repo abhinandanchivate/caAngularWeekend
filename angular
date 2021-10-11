@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T17:16:58.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="FAkNMQCLmvzJhpvtJsuL" version="14.9.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-11T12:07:54.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SXfb4ImreP3_u0gx5EbA" version="15.4.3" type="github" pages="6">
   <diagram id="YikZJ67pZQlrhkOtO5Au" name="Page-1">
-    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3kOsW87id9D_96xOOZYY" name="modules Example">
-    <mxGraphModel dx="1632" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-0" />
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-1" parent="dKAvU3m1QuKIfqcSDbnP-0" />
@@ -220,6 +220,17 @@
         </mxCell>
         <mxCell id="No7DzXqeOFBhcDZhXNzB-4" value="1. we have to perform a rest call to get the current user profile details.&amp;nbsp;&lt;br&gt;situation 2 :&amp;nbsp;&lt;br&gt;1. profile exists&amp;nbsp;&lt;br&gt;2. profile not found&lt;br&gt;if profile not found : display create profile button." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="No7DzXqeOFBhcDZhXNzB-1">
           <mxGeometry x="690" y="235" width="310" height="245" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tKgKpRrE1rJTZG8uVMSf" name="Angular Intro">
+    <mxGraphModel dx="778" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Kc6ZCTLwRk6Uu6jkItak-0" />
+        <mxCell id="Kc6ZCTLwRk6Uu6jkItak-1" parent="Kc6ZCTLwRk6Uu6jkItak-0" />
+        <mxCell id="Kc6ZCTLwRk6Uu6jkItak-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kc6ZCTLwRk6Uu6jkItak-1">
+          <mxGeometry x="170" y="70" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
