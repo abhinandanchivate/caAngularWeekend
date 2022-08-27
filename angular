@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T12:45:49.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0G0Xs4Otrerr8ENlQ0Cm" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-27T14:20:28.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gD8CULkPd8sSAL6frjMS" version="20.2.7" type="github" pages="6">
   <diagram id="YikZJ67pZQlrhkOtO5Au" name="Page-1">
-    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3kOsW87id9D_96xOOZYY" name="modules Example">
-    <mxGraphModel dx="1903" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-0" />
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-1" parent="dKAvU3m1QuKIfqcSDbnP-0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-7" value="1. profile&lt;br&gt;2. dashboard&lt;br&gt;3. post&lt;br&gt;4. comments&lt;br&gt;5. home page(common content)&lt;br&gt;6. user" style="rounded=1;whiteSpace=wrap;html=1;" parent="dKAvU3m1QuKIfqcSDbnP-1" vertex="1">
-          <mxGeometry x="-420" y="200" width="170" height="220" as="geometry" />
+          <mxGeometry x="-600" y="80" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dKAvU3m1QuKIfqcSDbnP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dKAvU3m1QuKIfqcSDbnP-1" source="dKAvU3m1QuKIfqcSDbnP-8" target="dKAvU3m1QuKIfqcSDbnP-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
